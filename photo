@@ -1,7 +1,18 @@
 //HTML
  <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_writer-avatar.jpg" class="writer-img">
-
+ <h3 class="byline">Article By: Jane Dover</h3>
+//фото с тенью и подпись автора справа. Пригодится для блогов и статей. 
+ 
+ 
 //CSS
+.byline {
+  font-family: Helvetica;
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+
 .writer-img {
   -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
