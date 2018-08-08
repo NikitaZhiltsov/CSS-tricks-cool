@@ -1,0 +1,10 @@
+
+.writer-img {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 50px;
+}
+
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/css-visual-rules?action=resume_content_item&course_redirect=learn-css
